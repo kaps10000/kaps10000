@@ -11,11 +11,6 @@
 
 **Cybersecurity · AI/ML · DevOps · Full-Stack**
 
-BSc Cybersecurity @ ZCAS University, Lusaka 🇿🇲
-
-[![GitHub followers](https://img.shields.io/github/followers/kaps10000?style=flat&color=58A6FF&labelColor=0D1117)](https://github.com/kaps10000)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-Top_14%25-9FEF00?style=flat&labelColor=0D1117)](https://hackthebox.com)
-[![CTF](https://img.shields.io/badge/Exploit_X_CTF-158th%2F1128-58A6FF?style=flat&labelColor=0D1117)](https://github.com/kaps10000)
 
 </div>
 
