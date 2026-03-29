@@ -1,9 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=36&duration=3000&pause=1000&color=D97706&center=true&vCenter=true&width=500&lines=KAPS100" alt="KAPS100" />
+<img src="./banner.svg" alt="KAPS100" width="700" />
 
-**Cybersecurity · AI/ML · DevOps · Full-Stack**
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=D97706&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=45&lines=Cybersecurity+%C2%B7+AI%2FML+%C2%B7+DevOps+%C2%B7+Full-Stack" alt="tagline" />
 
 </div>
 
