@@ -20,7 +20,7 @@
 
 ### 🔥 Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kaps10000&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kaps10000&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&hide_longest_streak=true)](https://git.io/streak-stats)
 
 </div>
 
