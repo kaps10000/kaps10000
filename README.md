@@ -1,13 +1,6 @@
 <div align="center">
 
-```
- ██╗  ██╗ █████╗ ██████╗ ███████╗ ██╗ ██████╗  ██████╗
- ██║ ██╔╝██╔══██╗██╔══██╗██╔════╝███║██╔═████╗██╔═████╗
- █████╔╝ ███████║██████╔╝███████╗╚██║██║██╔██║██║██╔██║
- ██╔═██╗ ██╔══██║██╔═══╝ ╚════██║ ██║████╔╝██║████╔╝██║
- ██║  ██╗██║  ██║██║     ███████║ ██║╚██████╔╝╚██████╔╝
- ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚══════╝ ╚═╝ ╚═════╝  ╚═════╝
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=36&duration=3000&pause=1000&color=D97706&center=true&vCenter=true&width=500&lines=KAPS100" alt="KAPS100" />
 
 **Cybersecurity · AI/ML · DevOps · Full-Stack**
 
@@ -26,23 +19,6 @@
 
 ---
 
-### What I Build
-
-Every major project solves a real problem in Zambia.
-
-| Project | What it does | Stack |
-|---------|-------------|-------|
-| [**TaxGuard AI**](https://github.com/kaps10000/ZRA-Hackathon-TaxGuard-AI-GhostBuster) ⭐ | 12-microservice AI fraud detection for ZRA — phantom companies, ghost employees, VAT fraud, OCR, blockchain audit trail, whistleblower protection | JS, Python, PostgreSQL, Socket.io |
-| **ZIAA** | Investment AI agent on Oracle Cloud — 10 Docker containers, 9 ML models (97% accuracy), live LUSE data scraping | FastAPI, PyTorch, Grafana, Prometheus |
-| [**Orion Quant Lab**](https://github.com/kaps10000/Orion-Quant-Lab-and-Reaserch) | Research-to-trade pipeline — 70+ indicators, backtesting engine, live broker execution, Streamlit dashboards | Python, Backtrader, Redis, Docker |
-| [**Gov Infrastructure Mapping**](https://github.com/kaps10000/Zam-Gov_Maping_Project) | Mapped 3,026 nodes & 6,975 relationships across Zambia's government digital infrastructure using OSINT | Python, Neo4j, SpiderFoot |
-| **Atheia Gateway** | Production payment gateway — Airtel, MTN, Zamtel, Visa/Mastercard | FastAPI, PostgreSQL, Redis, Docker |
-| **UHL 3.0** | "Airbnb for Zambian student housing" — 50+ API endpoints, 3 user roles | Next.js, Flask, PostgreSQL |
-| [**Maize Yield Prediction**](https://github.com/kaps10000/Maize-Yield-Prediction) | CNN-LSTM model using Sentinel-2 satellite imagery across 23 Zambian districts | PyTorch, Google Earth Engine |
-| **BantuSave** | Digitizing Chilimba — traditional group savings with blockchain transparency | Django, PostgreSQL, Firebase |
-
----
-
 <div align="center">
 
 ### 📊 Stats
@@ -51,18 +27,6 @@ Every major project solves a real problem in Zambia.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaps10000&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" width="48%" />
 
 </div>
-
----
-
-### By the Numbers
-
-```
-16  repos on GitHub             12  microservices (TaxGuard AI)
-10  Docker containers (ZIAA)    97% ML accuracy (GNN model)
-3,026  nodes in gov graph db    2,534  subdomains enumerated
-70+  quant indicators           50+  API endpoints (UHL)
-23  districts mapped (maize)    4  payment providers (Atheia)
-```
 
 ---
 
