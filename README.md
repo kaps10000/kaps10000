@@ -2,7 +2,7 @@
 
 <img src="./banner.svg" alt="KAPS100" width="700" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=D97706&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=45&lines=Cybersecurity+%C2%B7+AI%2FML+%C2%B7+DevOps+%C2%B7+Full-Stack" alt="tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=D97706&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=45&lines=Cybersecurity+%C2%B7+AI%2FML+%C2%B7+DevOps+%C2%B7+Full-Stack+%C2%B7+Systems+Engineering" alt="tagline" />
 
 </div>
 
