@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=60&duration=3000&pause=1000&color=D97706&center=true&vCenter=true&repeat=true&width=600&height=80&lines=KAPS100" alt="KAPS100" />
+<img src="./banner.svg" alt="KAPS100" width="700" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2000&pause=1000&color=D97706&center=true&vCenter=true&repeat=true&width=600&height=35&lines=Cybersecurity;AI+%2F+ML;DevOps;Full-Stack;Systems+Engineering" alt="tagline" />
 
