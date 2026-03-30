@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./banner.svg" alt="KAPS100" width="700" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=60&duration=3000&pause=1000&color=D97706&center=true&vCenter=true&repeat=true&width=600&height=80&lines=KAPS100" alt="KAPS100" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=D97706&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=45&lines=Cybersecurity+%C2%B7+AI%2FML+%C2%B7+DevOps+%C2%B7+Full-Stack+%C2%B7+Systems+Engineering" alt="tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2000&pause=1000&color=D97706&center=true&vCenter=true&repeat=true&width=600&height=35&lines=Cybersecurity;AI+%2F+ML;DevOps;Full-Stack;Systems+Engineering" alt="tagline" />
 
 </div>
 
