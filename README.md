@@ -10,16 +10,6 @@
 
 <div align="center">
 
-### 🔥 Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=kaps10000&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&hide_longest_streak=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-<div align="center">
-
 ### 📊 Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=kaps10000&show_icons=true&theme=transparent&hide_border=true&icon_color=58A6FF&title_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" width="48%" />
